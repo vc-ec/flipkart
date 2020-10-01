@@ -1,2 +1,3 @@
 hello guys 
-gi commands are  very important
+updating in dev branch
+git commands are  very important
