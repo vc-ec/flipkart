@@ -1,1 +1,2 @@
-hello this file conatins deployment scripts
+hello this file conatins deployment script
+dss
